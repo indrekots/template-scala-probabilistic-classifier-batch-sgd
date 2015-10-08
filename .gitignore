@@ -2,3 +2,6 @@
 project/project/
 project/target/
 target/
+pio.log
+pio.sbt
+manifest.json
